@@ -28,7 +28,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "jison": "~0.4.13",
+    "jison": "git+https://github.com/mike-mcgann/jison.git#namespace",
     "ebnf-parser": "~0.1.9",
     "lex-parser": "~0.1.3"
   },
